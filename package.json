@@ -1,0 +1,29 @@
+{
+  
+  "name": "expensetracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erybie222/expenseTracker.git"
+  },
+  "author": "Eryk Bielawski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erybie222/expenseTracker/issues"
+  },
+  "homepage": "https://github.com/erybie222/expenseTracker#readme",
+  "description": "",
+  "dependencies": {
+    "commander": "^13.1.0"
+  },
+  "bin": {
+  "expense-tracker": "./index.js"
+}
+
+  
+}
